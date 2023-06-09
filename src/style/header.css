@@ -1,0 +1,20 @@
+.nav-header{
+    align-items: center;
+    display: flex;
+    gap: 80%;
+    margin: 10px 7px;
+
+}
+.nav-header1 button{
+    padding: 17px 7px;
+    color: white;
+    background:#309164;
+    border: none;
+    border-radius: 5px;
+    margin: 0px 9px;
+}
+button:hover{
+    background: gray;
+    cursor: pointer;
+    scale: 1.1;
+}

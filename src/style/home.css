@@ -1,0 +1,18 @@
+
+
+img{
+    display: flex;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.choice{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.money{
+    width: 30%;
+    text-align: center;
+}

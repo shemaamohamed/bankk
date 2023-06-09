@@ -1,0 +1,48 @@
+.contentf{
+    display: flex;
+    justify-content: center;
+    color: white;
+    
+}
+.details{
+    text-align: center;
+    width: 40%;
+
+}
+.content{
+    background:#309164;
+    text-align: center;
+    flex-direction: column;
+    width: 100%;
+    
+    position:relative;
+    z-index: -1;
+    left: 0;
+    bottom: 0;
+}
+li{
+    display: flex;
+    justify-content: center;
+
+}
+.media{
+    color: black;
+
+}
+.facebook,.instagram,.whatsapp,.youtube{
+    margin: 0px 6px;
+ 
+}
+.youtube :hover{
+    color: white;
+}
+.facebook :hover{
+    color: white;
+} 
+.instagram :hover{
+    color: white;
+}
+
+.whatsapp :hover{
+    color: white;
+}

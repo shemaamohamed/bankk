@@ -1,0 +1,58 @@
+
+td,th{
+padding: 20px 60px;
+}
+th{
+    color: #309164;
+    font-size: large;
+}
+td{
+    font-size: 15px;
+    text-align: center;
+}
+table{
+    width: 80%;
+    margin: auto;
+}
+button{
+    color: white;
+    background:#309164;
+    border: none;
+    padding: 10px 7px;
+    border-radius: 5px;
+
+
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+
+}
+.form button{
+    margin: 9px 0px ;
+}
+.form input{
+    padding: 9px 9px;
+}
+#allform{
+    width: 30%;
+    /* margin: auto; */
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    /* right: 50%; */
+    background: aliceblue;
+    display: none;
+}
+#close{
+    color: rgb(183, 49, 49);
+    position: absolute;
+    right: 0px;
+    font-size: 25px;
+}
+#close:hover{
+    color: #309164;
+}
